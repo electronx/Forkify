@@ -15,4 +15,12 @@ The complete list of features:
 9. Own recipes are automatically bookmarked
 10. User can only see own recipes, not from others
 
+Built using vanilla JavaScript.
+
+Tools used:
+Parcel - bundling, integrating Babel for polyfilling, and transpiling, to ensure backwards compatibility for old browsers.
+Core-js - polyfilling ES6 features 
+Regenerator-runtime - for async functions
+Fraction.js - for expressing fractions easily
+Sass - for stylez
 
